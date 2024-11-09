@@ -1,3 +1,3 @@
 # stride_admin
 
-Admin Panel for Stride shoe Ecommerce. sApp
+Admin Panel for Stride shoe Ecommerce App
