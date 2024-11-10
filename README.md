@@ -8,4 +8,4 @@ State Management:
 Pub: 
 * Url_strategy
 * get storage
-* 
+* flutter storage 
