@@ -5,5 +5,7 @@ Admin Panel for Stride shoe Ecommerce App.
 State Management: 
 * GetX state management.
 
-Pubs: 
+Pub: 
+* Url_strategy
+* get storage
 * 
