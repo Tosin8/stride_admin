@@ -5,5 +5,9 @@ class Routes {
   static const String verifyMail = '/verifyMail';
   static const String forgotPassword = '/forgotPassword';
   static const String resetPassword = '/resetPassword'; 
+
+  
+  static const dashboard = '/dashboard'; 
+  static const media = '/media'; 
   
 }
